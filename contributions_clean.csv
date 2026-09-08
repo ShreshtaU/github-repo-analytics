@@ -1,0 +1,662 @@
+user_login,anonymous_name,is_anonymous,is_bot,contributions
+mzabriskie,,False,False,314
+jasonsaayman,,False,False,298
+DigitalBrainJS,,False,False,187
+nickuraltsev,,False,False,177
+dependabot[bot],,False,True,106
+github-actions[bot],,False,True,101
+,Matt Zabriskie,True,False,42
+emilyemorehouse,,False,False,31
+JustinBeckwith,,False,False,16
+rubennorte,,False,False,16
+,Vineet Hawal,True,False,14
+codeclown,,False,False,14
+shaanmajid,,False,False,13
+chinesedfan,,False,False,13
+remcohaszing,,False,False,11
+WillianAgostini,,False,False,11
+RikkiGibson,,False,False,10
+noritaka1166,,False,False,7
+yasuf,,False,False,7
+carpben,,False,False,7
+idan,,False,False,6
+timemachine3030,,False,False,6
+jtangelder,,False,False,5
+lin-hongkuan,,False,False,5
+mixelburg,,False,False,5
+Gerhut,,False,False,5
+bomsy,,False,False,4
+joaoGabriel55,,False,False,4
+,Tim Garthwaite,True,False,4
+cyphercodes,,False,False,4
+Mohammad-Faiz-Cloud-Engineer,,False,False,4
+Cadienvan,,False,False,4
+felipewmartins,,False,False,4
+Copilot,,False,False,4
+Aviraj2929,,False,False,4
+anchalive,,False,False,4
+abhishekmaniy,,False,False,4
+staticinstance,,False,False,3
+arthurfiorette,,False,False,3
+38elements,,False,False,3
+,Maximilian Hoffmann,True,False,3
+mbargiel,,False,False,3
+Kosta-Github,,False,False,3
+justindhillon,,False,False,3
+,Alanscut,True,False,3
+ctimmerm,,False,False,3
+JSap0914,,False,False,3
+cprayer,,False,False,2
+shreem-123,,False,False,2
+sapirbaruch,,False,False,2
+stscoundrel,,False,False,2
+mrsandy1965,,False,False,2
+rogeriochaves,,False,False,2
+rijkvanzanten,,False,False,2
+rkdfx,,False,False,2
+raashish1601,,False,False,2
+Punit-wingify,,False,False,2
+phloose,,False,False,2
+nnarhinen,,False,False,2
+bttmly,,False,False,2
+penance316,,False,False,2
+reggi,,False,False,2
+tomaash,,False,False,2
+techbirds,,False,False,2
+jcready,,False,False,2
+arpit2438735,,False,False,2
+ashstrc,,False,False,2
+ruchigoyal2005,,False,False,2
+grumblerchester,,False,False,2
+,mattridley,True,False,2
+nthbotast,,False,True,2
+techcodie,,False,False,2
+torarnek,,False,False,2
+,wenzheng,True,False,2
+zh-lx,,False,False,2
+amitsainii,,False,False,2
+davecardwell,,False,False,2
+AKASHDHARDUBEY,,False,False,2
+ajcrites,,False,False,2
+ascott18,,False,False,2
+afurm,,False,False,2
+,Anth Winter,True,False,2
+anthonygauthier,,False,False,2
+avindra,,False,False,2
+BlackHole1,,False,False,2
+LaplaceYoung,,False,False,2
+caugner,,False,False,2
+dandv,,False,False,2
+djs113,,False,False,2
+davidfou,,False,False,2
+Deamon87,,False,False,2
+dericcain,,False,False,2
+naveensrinivasan,,False,False,2
+,Mathieu Bruyen,True,False,2
+,Marco Pracucci,True,False,2
+mhassan1,,False,False,2
+lpizzinidev,,False,False,2
+koh110,,False,False,2
+Khaledgarbaya,,False,False,2
+kasperisager,,False,False,2
+josh-egan,,False,False,2
+Jarlotee,,False,False,2
+Baoyx007,,False,False,2
+lachenmayer,,False,False,2
+fgnass,,False,False,2
+aviu16,,False,False,2
+devareddy05,,False,False,2
+,Sako Hartounian,True,False,1
+slmnsh,,False,False,1
+ThatGuySam,,False,False,1
+,Sam Julien,True,False,1
+sufuf3,,False,False,1
+MarshallOfSound,,False,False,1
+Samy-in,,False,False,1
+sagodi97,,False,False,1
+,Sasha Korotkov,True,False,1
+,Sean Sattler,True,False,1
+,Sebastian Hädrich,True,False,1
+,Sergey Tsvetkov,True,False,1
+,Shane Daniel,True,False,1
+,Shane Fitzpatrick,True,False,1
+,Shay Molcho,True,False,1
+,Shin'ya Ueoka,True,False,1
+rayrutjes,,False,False,1
+renancaraujo,,False,False,1
+risa,,False,False,1
+therealrinku,,False,False,1
+Rishi556,,False,False,1
+robaxelsen,,False,False,1
+fridzema,,False,False,1
+ImRodry,,False,False,1
+r0h1tb,,False,False,1
+RonGamzu,,False,False,1
+Rossolson,,False,False,1
+estarossa0,,False,False,1
+Rudrxxx,,False,False,1
+rbown,,False,False,1
+paveg,,False,False,1
+sachin11063,,False,False,1
+SAGARACH65,,False,False,1
+Sagargupta16,,False,False,1
+,Shivam Batham,True,False,1
+,Sven Efftinge,True,False,1
+,Tackoil,True,False,1
+,Taegyeoung Oh,True,False,1
+,TagawaHirotaka,True,False,1
+,Takahiro Ikeda,True,False,1
+,Tao,True,False,1
+,Taylor Flatt,True,False,1
+,Ted Robertson,True,False,1
+,Teemu Heikkilä,True,False,1
+,Teemu Heikkilä,True,False,1
+,Tejaswi1305,True,False,1
+,Thibault Ehrhart,True,False,1
+,Thomas Guillory,True,False,1
+,Thomas Landauer,True,False,1
+,Tiago Rodrigues,True,False,1
+,Tibor Pilz,True,False,1
+,Tim Düsterhus,True,False,1
+,Shiwaangee,True,False,1
+,Shrivali Dutt,True,False,1
+,Siddharth Kshetrapal,True,False,1
+,Simone Busoli,True,False,1
+,Spencer,True,False,1
+,Spencer von der Ohe,True,False,1
+,Srinu desetti,True,False,1
+,Starfox64,True,False,1
+,StefanBRas,True,False,1
+,Stefano Magni,True,False,1
+,Stephan Schneider,True,False,1
+,Stephen Jennings,True,False,1
+,Steven,True,False,1
+,Subhan Kumar Rai,True,False,1
+,Suman Lama,True,False,1
+,Sung Jeon,True,False,1
+,Supakorn Ieamgomol,True,False,1
+bimbiltu,,False,False,1
+GethosTheWalrus,,False,False,1
+michalzaq12,,False,False,1
+m1guelpf,,False,False,1
+MiguelMadero,,False,False,1
+MikeBishop,,False,False,1
+bananaoomarang,,False,False,1
+petrovmiroslav,,False,False,1
+Creaous,,False,False,1
+MoSattler,,False,False,1
+MoPaMo,,False,False,1
+moh3n9595,,False,False,1
+iwata,,False,False,1
+mnomanmemon,,False,False,1
+0o001,,False,False,1
+NETIZEN-11,,False,False,1
+Nandann018-ux,,False,False,1
+naronchen,,False,False,1
+Gudahtt,,False,False,1
+mvdnbrk,,False,False,1
+marlonbarcarol,,False,False,1
+martinjoiner,,False,False,1
+Maskedman99,,False,False,1
+zoontek,,False,False,1
+MattCCC,,False,False,1
+mdlavin,,False,False,1
+mastermatt,,False,False,1
+MichaelFoss,,False,False,1
+michael-land,,False,False,1
+,Michael Liendo,True,False,1
+mmarvick,,False,False,1
+,Michael McDermott,True,False,1
+jmmk,,False,False,1
+mnahkies,,False,False,1
+,Michael Shin,True,False,1
+snamiki1212,,False,False,1
+npiyush97,,False,False,1
+Parth0105,,False,False,1
+patrick-petrovic,,False,False,1
+PauloRSF,,False,False,1
+pavan168,,False,False,1
+psmoros,,False,False,1
+Jezorko,,False,False,1
+1pm,,False,False,1
+latentflip,,False,False,1
+piiih,,False,False,1
+precto1285,,False,False,1
+pierluigilenoci,,False,False,1
+sfc-gh-pmotacki,,False,False,1
+QodeXcli,,False,False,1
+rafaelrenanpacheco,,False,False,1
+jaiyankargupta,,False,False,1
+raihan71,,False,False,1
+nlf,,False,False,1
+nettofarah,,False,False,1
+ckng0221,,False,False,1
+echelonnought,,False,False,1
+nickjuntilla,,False,False,1
+ndelvalle,,False,False,1
+Kirito-Excalibur,,False,False,1
+galkin,,False,False,1
+mochinikunj,,False,False,1
+nisarhassan12,,False,False,1
+NitinRamnani,,False,False,1
+curiouscoder-cmd,,False,False,1
+norbertsongin,,False,False,1
+OfekDanny,,False,False,1
+penkzhou,,False,False,1
+ordinarycas,,False,False,1
+ostapondo,,False,False,1
+,littledian,True,False,1
+,marcinx,True,False,1
+,mia-z,True,False,1
+,mkusaka,True,False,1
+,moonion,True,False,1
+,msangui,True,False,1
+,multicolaure,True,False,1
+,neilnaveen,True,False,1
+,niris,True,False,1
+,onlyahsan,True,False,1
+,pbarbiero,True,False,1
+,prasoon patel,True,False,1
+,prianYu,True,False,1
+,rafw87,True,False,1
+,ready-research,True,False,1
+,relbns,True,False,1
+,reslear,True,False,1
+,hcwhan,True,False,1
+,hexaez,True,False,1
+,hippo,True,False,1
+,howel52,True,False,1
+,huangzuizui,True,False,1
+,ibci,True,False,1
+,ikuy1203,True,False,1
+,iruizsalinas,True,False,1
+,izzy goldman,True,False,1
+,jdrydn,True,False,1
+,jeffjing,True,False,1
+,jennynju,True,False,1
+,kenvunz,True,False,1
+,khani,True,False,1
+,kuroino721,True,False,1
+,lcysgsg,True,False,1
+,letohx,True,False,1
+,rockcs1992,True,False,1
+,v-dev-cl,True,False,1
+,vandosant,True,False,1
+,visortelle,True,False,1
+,xlaguna,True,False,1
+,yionr,True,False,1
+,Đỗ Trọng Hải,True,False,1
+,不才,True,False,1
+,刘涛,True,False,1
+,夜葬,True,False,1
+,暴走老七,True,False,1
+,杨春旭,True,False,1
+,毛呆,True,False,1
+,狼族小狈,True,False,1
+,陈若枫,True,False,1
+,유용우 / CX,True,False,1
+,윤세영,True,False,1
+,최예찬,True,False,1
+,rohit miryala,True,False,1
+,rupertrutland,True,False,1
+,ryiwamoto,True,False,1
+,sakarit,True,False,1
+,samueleaton,True,False,1
+,sasidharmopuru,True,False,1
+,savantaparna,True,False,1
+,scarf,True,False,1
+,secondl1ght,True,False,1
+,shingo.sasaki,True,False,1
+,shravan || श्रvan,True,False,1
+,sijie-Z,True,False,1
+,spokodev,True,False,1
+,stevenp,True,False,1
+,svihpinc,True,False,1
+,tboyila,True,False,1
+,theamodhshetty,True,False,1
+,Usman Ali Siddiqui,True,False,1
+,Valentin Panov,True,False,1
+,Valerii Sidorenko,True,False,1
+,Vamp,True,False,1
+,Varun Chawla,True,False,1
+,Ved Vadnere,True,False,1
+,Veer Shah,True,False,1
+,Victor Augusto,True,False,1
+,Victor Hermes,True,False,1
+,Viktor,True,False,1
+,Wali007-lab,True,False,1
+,Wataru,True,False,1
+,Weffe,True,False,1
+,Wilson Mun,True,False,1
+,Winnie,True,False,1
+,Wolfram Kriesing,True,False,1
+,WuMingDao,True,False,1
+,Tim Gates,True,False,1
+,Tim Johns,True,False,1
+,Timothy Okooboh,True,False,1
+,Tom Ceuppens,True,False,1
+,TomTensor,True,False,1
+,Tommaso Madonia,True,False,1
+,Tommaso Paulon,True,False,1
+,Tomy Jaya,True,False,1
+,Tomás Raiti,True,False,1
+,Tony L. Kerz,True,False,1
+,Trim21,True,False,1
+,Turadg Aleahmad,True,False,1
+,Tyler Breisacher,True,False,1
+,Tyler Brown,True,False,1
+,UTSUMI Keiji,True,False,1
+,Uhyeon Park,True,False,1
+,Usama Ayoub,True,False,1
+,Ya Hui Liang(Ryou),True,False,1
+,bushuai,True,False,1
+,caikan,True,False,1
+,carladams1299-lab,True,False,1
+,chenjigeng,True,False,1
+,codenomnom,True,False,1
+,cui,True,False,1
+,digital-wizard48,True,False,1
+,drawski,True,False,1
+,drori12,True,False,1
+,dublx,True,False,1
+,duibu05,True,False,1
+,ecyrbe,True,False,1
+,enofan,True,False,1
+,fancy45daddy,True,False,1
+,felipedamin,True,False,1
+,george.skarbovskiy,True,False,1
+,gi9439041-png,True,False,1
+,Yasser Tawfik,True,False,1
+,Yen Su,True,False,1
+,Yo'av Moshe,True,False,1
+,Yossi Eliaz,True,False,1
+,Yue JIN,True,False,1
+,Yueming Gao,True,False,1
+,Yutaro Miyazaki,True,False,1
+,Zac Delventhal,True,False,1
+,Zachary Lysobey,True,False,1
+,Zao Soula,True,False,1
+,Zeroday BYTE,True,False,1
+,ZhaoXC,True,False,1
+,Ziding Zhang,True,False,1
+,Zoran Kokeza,True,False,1
+,ahmed ayoub,True,False,1
+,aong,True,False,1
+,asmitha-16,True,False,1
+1000ch,,False,False,1
+cookieMr,,False,False,1
+a631807682,,False,False,1
+crhistianramirez,,False,False,1
+the-csaba,,False,False,1
+dhrubesh,,False,False,1
+danmooney,,False,False,1
+,Daniel Fischer,True,False,1
+w3bdesign,,False,False,1
+hilleer,,False,False,1
+sericaia,,False,False,1
+darwin808,,False,False,1
+wangcch,,False,False,1
+davestewart,,False,False,1
+cygnusss,,False,False,1
+DavidJDallas,,False,False,1
+,David Ko,True,False,1
+,Davis Barber,True,False,1
+brianadams731,,False,False,1
+anglinb,,False,False,1
+brianhelba,,False,False,1
+ctjlewis,,False,False,1
+chentsulin,,False,False,1
+carloschida,,False,False,1
+carlosromel,,False,False,1
+TheHonoredOne914,,False,False,1
+catscarlet,,False,False,1
+,Chance Dickson,True,False,1
+cclauss,,False,False,1
+madebyherzblut,,False,False,1
+sloansparger,,False,False,1
+ChronosMasterOfAllTime,,False,False,1
+clarkdo,,False,False,1
+claudiobusatto,,False,False,1
+int64ago,,False,False,1
+deepview-autofix,,False,False,1
+cincodenada,,False,False,1
+EFord36,,False,False,1
+emiedonmokumo,,False,False,1
+emilbroman-eqt,,False,False,1
+mannoeu,,False,False,1
+Ginxo,,False,False,1
+KernelDeimos,,False,False,1
+ericmdantas,,False,False,1
+Evan-Finkelstein,,False,False,1
+evanshortiss,,False,False,1
+egmen,,False,False,1
+eyupcanakman,,False,False,1
+fboeller,,False,False,1
+meyfa,,False,False,1
+fabiel-leon,,False,False,1
+heloflier,,False,False,1
+lexcorp16,,False,False,1
+DenisCarriere,,False,False,1
+skrtheboss,,False,False,1
+gamtiq,,False,False,1
+despreston,,False,False,1
+Dhvani365,,False,False,1
+dimitry-lzs,,False,False,1
+mitsos1os,,False,False,1
+divyanshuraj1095,,False,False,1
+airs0urce,,False,False,1
+fedotov,,False,False,1
+dobesv,,False,False,1
+dominykas,,False,False,1
+doowonee,,False,False,1
+,Dylan Lundy,True,False,1
+ebeigarts,,False,False,1
+posva,,False,False,1
+elinagorshkova,,False,False,1
+Alanscut,,False,False,1
+AlbertoSadoc,,False,False,1
+adimit,,False,False,1
+ybbus,,False,False,1
+sashsvamir,,False,False,1
+atrauzzi,,False,False,1
+alexandre-abrioux,,False,False,1
+unguul,,False,False,1
+alpancs,,False,False,1
+aliclark,,False,False,1
+exalted,,False,False,1
+Allanbcruz,,False,False,1
+AmeerAssadi,,False,False,1
+Amitverma0509,,False,False,1
+jin5354,,False,False,1
+AnandSundar,,False,False,1
+m1neral,,False,False,1
+3846masa,,False,False,1
+aziyatali,,False,False,1
+,Aaron Ang,True,False,1
+aayushkrishnaut,,False,False,1
+Abhi3975,,False,False,1
+abhu85,,False,False,1
+thebanjomatic,,False,False,1
+Adi-Beker,,False,False,1
+ADITYA-176,,False,False,1
+adrknapp,,False,False,1
+Argeento,,False,False,1
+adrien-may,,False,False,1
+afonsojramos,,False,False,1
+afzalsayed96,,False,False,1
+a-tokyo,,False,False,1
+Aakash-Rana,,False,False,1
+akshatnitd,,False,False,1
+,Andrei Goncharov,True,False,1
+,Auke van Leeuwen,True,False,1
+AurelioDeRosa,,False,False,1
+axelboc,,False,False,1
+AyushG3112,,False,False,1
+azandabot,,False,True,1
+llamington,,False,False,1
+bartlomieju,,False,False,1
+basselworkforce,,False,False,1
+,Ben Creasy,True,False,1
+aguynamedben,,False,False,1
+axe312ger,,False,False,1
+bennycode,,False,False,1
+bernardoduarte,,False,False,1
+tusbar,,False,False,1
+bfaulk96,,False,False,1
+woodb,,False,False,1
+blittle,,False,False,1
+andrewkernel,,False,False,1
+,Andrew Gibb,True,False,1
+owap,,False,False,1
+repl-andrew-ovens,,False,False,1
+puzpuzpuz,,False,False,1
+andykog,,False,False,1
+Chalarangelo,,False,False,1
+Rpaudel379,,False,False,1
+singhankit001,,False,False,1
+antoninbas,,False,False,1
+anubhavsrivastava,,False,False,1
+ari-token-security,,False,False,1
+itsarvindh,,False,False,1
+Electroid,,False,False,1
+aschoube,,False,False,1
+ashvin2005,,False,False,1
+atharvasingh7007,,False,False,1
+masterots,,False,False,1
+JounQin,,False,False,1
+ryoia,,False,False,1
+brodo,,False,False,1
+,Julian Hollmann,True,False,1
+vbfox,,False,False,1
+KT0803,,False,False,1
+Schweinepriester,,False,False,1
+Kilros0817,,False,False,1
+mindriven,,False,False,1
+karan-lrn,,False,False,1
+karlhorky,,False,False,1
+kmayer,,False,False,1
+knpwrs,,False,False,1
+Kenzo-Wada,,False,False,1
+kevincennis,,False,False,1
+,Kevin Ivan,True,False,1
+jerfowler,,False,False,1
+fureweb-com,,False,False,1
+JimLynchCodes,,False,False,1
+jimmy-liao-gogoro,,False,False,1
+MageeLin,,False,False,1
+capaj,,False,False,1
+JohannCooper,,False,False,1
+johachi,,False,False,1
+ck3gemproject,,False,False,1
+johntron,,False,False,1
+kiritosan,,False,False,1
+JBudiman00,,False,False,1
+jonathanfoster,,False,False,1
+textbook,,False,False,1
+josephfrazier,,False,False,1
+JoshZA,,False,False,1
+,Josh McCarty,True,False,1
+kkirsche,,False,False,1
+louislarry,,False,False,1
+,Lubos,True,False,1
+portolucas,,False,False,1
+ljkeller,,False,False,1
+LukasDrgon,,False,False,1
+lukashroch,,False,False,1
+lukepolo,,False,False,1
+me4502,,False,False,1
+madhumitaaa,,False,False,1
+MahinAnowar,,False,False,1
+,Malik Dirim,True,False,1
+manishsahanidev,,False,False,1
+ManoelLobo,,False,False,1
+mawrkus,,False,False,1
+marcelometal,,False,False,1
+mrcwbr,,False,False,1
+MarcosNocetti,,False,False,1
+DjebbZ,,False,False,1
+kianmeng,,False,False,1
+ramram1048,,False,False,1
+Kingo64,,False,False,1
+turisap,,False,False,1
+kobihikri,,False,False,1
+kaishuu0123,,False,False,1
+kuitos,,False,False,1
+Kr-Shanu,,False,False,1
+Landro3,,False,False,1
+L-Hknu,,False,False,1
+phryneas,,False,False,1
+levpachmanov,,False,False,1
+jjingrong,,False,False,1
+lipinnnnn,,False,False,1
+Liuwei1125,,False,False,1
+loklaan,,False,False,1
+,Gustavo Sales,True,False,1
+gnesher,,False,False,1
+gfoidl,,False,False,1
+habipakyol,,False,False,1
+836334258,,False,False,1
+hansottowirtz,,False,False,1
+helios1101,,False,False,1
+Hashim1999164,,False,False,1
+hencoappel,,False,False,1
+hpinmetaverse,,False,False,1
+akahoshi1421,,False,False,1
+,Hirotaka Tagawa / wafuwafu13,True,False,1
+howiezhao,,False,False,1
+huyenltnguyen,,False,False,1
+HyperLife1119,,False,False,1
+IVLIU,,False,False,1
+ianwijma,,False,False,1
+FatahChan,,False,False,1
+FCarvalhoVII,,False,False,1
+FLNacif,,False,False,1
+Fonger,,False,False,1
+Fdawgs,,False,False,1
+friederbluemle,,False,False,1
+frustak,,False,False,1
+FelixLgr,,False,False,1
+,Gadzhi Gadzhiev,True,False,1
+gschambers,,False,False,1
+geeth24,,False,False,1
+gligorkot,,False,False,1
+,Grant Miner,True,False,1
+byrne-greg,,False,False,1
+lyrixx,,False,False,1
+guillaumebriday,,False,False,1
+gualopezb,,False,False,1
+IgorDePaula,,False,False,1
+thejayhaykid,,False,False,1
+jamesgeorge007,,False,False,1
+caocaojiudao,,False,False,1
+jrnail23,,False,False,1
+JamieMagee,,False,False,1
+JamieSlome,,False,False,1
+lejahmie,,False,False,1
+jergason,,False,False,1
+Janaka66,,False,False,1
+Wangarijane,,False,False,1
+Jarred-Sumner,,False,False,1
+jmdobry,,False,False,1
+JasonHK,,False,False,1
+Raymondo97,,False,False,1
+theverything,,False,False,1
+jelleschutter,,False,False,1
+JitixPhotobox,,False,False,1
+rigor789,,False,False,1
+eltociear,,False,False,1
+tryonelove,,False,False,1
+ikonst,,False,False,1
+igstan,,False,False,1
+whitfin,,False,False,1
+itareeee,,False,False,1
+ItsNotGoodName,,False,False,1
+ovarn,,False,False,1
+niksy,,False,False,1
+ivanpepelko,,False,False,1
+JLL32,,False,False,1
+jackytck,,False,False,1
+,Jacob,True,False,1
+wejendorp,,False,False,1
+jacquesg,,False,False,1
+codemaster138,,False,False,1
